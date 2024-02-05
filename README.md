@@ -1,4 +1,7 @@
 # ckellow.github.io
+
+## Introduction
+
 Cole Kellow's Website
 
 
@@ -8,5 +11,5 @@ My name is Cole Kellow. Hello and welcome to my website. This will be the locati
 
 ![](https://i.gifer.com/embedded/download/tiJ.gif)
 
-
+## Demos
 
